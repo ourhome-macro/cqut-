@@ -10,8 +10,8 @@
 ## 快速开始
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/your-username/cqut_.git
-cd cqut_
+git clone https://github.com/your-username/cqut-.git
+cd cqut-
 ```
 ### 2. 安装依赖
 ```bash
