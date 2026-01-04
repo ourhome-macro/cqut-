@@ -16,7 +16,7 @@ cd cqut-
 ### 2. 安装依赖
 ```bash
 # 使用requirements.txt安装所有依赖
-pip install -r requirements.txt
+  pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple 
 ```
 ### 3. 运行程序
 ```bash
@@ -52,8 +52,12 @@ numpy>=1.21.0
    ```
 2. **运行程序**：  
    ```bash
+   python -m venv myenv
+   source myenv/bin/activate
+   # 前面为安装虚拟环境
    python main.py
    ```
+
 ### **说明**  
 - **项目名称**：可根据你的项目修改（如`License Plate Recognition`）。  
 - **依赖版本**：根据实际使用的库版本调整（如`hyperlpr3`的版本）。  
