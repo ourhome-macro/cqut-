@@ -1,5 +1,4 @@
 
-```markdown
 # 车牌识别系统 (License Plate Recognition System)
 一个基于Python和hyperlpr3的车牌识别系统，支持实时摄像头捕获和中文车牌显示，适用于树莓派等嵌入式设备。
 ## 功能特性
